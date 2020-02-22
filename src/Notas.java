@@ -204,6 +204,7 @@ public class Notas {
 		System.out.println(" ");
 		primero.MostrarBoletinAlumno(1);
 		primero.MostrarResumenAsignatura(1);
+                // Comentario añadido por Daniel Mera
                 
 	}
 }
