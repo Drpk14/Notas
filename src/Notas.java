@@ -205,6 +205,8 @@ public class Notas {
 		primero.MostrarBoletinAlumno(1);
 		primero.MostrarResumenAsignatura(1);
                 // Comentario añadido por Daniel Mera
+                // Comentario 2 añadido por Daniel Mera
+                
                 
 	}
 }
