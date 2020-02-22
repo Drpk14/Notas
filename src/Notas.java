@@ -204,6 +204,6 @@ public class Notas {
 		System.out.println(" ");
 		primero.MostrarBoletinAlumno(1);
 		primero.MostrarResumenAsignatura(1);
-                
+                System.out.println("Prueba de commit 2");
 	}
 }
